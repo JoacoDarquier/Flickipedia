@@ -9,6 +9,10 @@ FlickiPedia is a web application for managing and tracking your favorite movies,
 - Add personal notes for each title
 - Responsive design for all devices
 
+## Demo
+
+[![FlickiPedia Demo](https://youtu.be/oYrjKEgPes8)
+
 ## Tech Stack
 
 **Backend:**
