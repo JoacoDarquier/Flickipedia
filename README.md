@@ -11,7 +11,7 @@ FlickiPedia is a web application for managing and tracking your favorite movies,
 
 ## Demo
 
-![FlickiPedia Demo](https://youtu.be/oYrjKEgPes8)
+[![Django Rest Framework - Flickipedia](http://img.youtube.com/vi/oYrjKEgPes8/0.jpg)](https://www.youtube.com/watch?v=oYrjKEgPes8)
 
 ## Tech Stack
 
